@@ -1441,7 +1441,20 @@
             "operator": "SHR",
             "provider": "Soorn",
             "created_at": 1770566882
+        },
+		{
+            "ip": "104.17.221.177",
+            "operator": "SHR",
+            "provider": "Soorn",
+            "created_at": 1770829362
+        },
+		{
+            "ip": "104.16.214.3",
+            "operator": "SHR",
+            "provider": "Soorn",
+            "created_at": 1770829362
         }
+		
     ],
     "ipv6": []
 }
